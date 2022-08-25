@@ -1,2 +1,1 @@
-“my second commit”
-New uppdate
+README has been Updated
